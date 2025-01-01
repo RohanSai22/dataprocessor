@@ -138,16 +138,6 @@ To run this application locally:
 
 ---
 
-## **Screenshots**
-
-### Sidebar Navigation:
-Sidebar Navigation
-
-### Example Visualization (Correlation Heatmap):
-Correlation Heatmap
-
----
-
 ## **Contributing**
 
 We welcome contributions to enhance this project! To contribute:
